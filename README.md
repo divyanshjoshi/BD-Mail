@@ -1,2 +1,2 @@
-# B-day-Mail
+# Birthday Mail
 Automated birthday emails using python 
