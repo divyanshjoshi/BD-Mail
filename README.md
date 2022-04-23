@@ -12,3 +12,6 @@ python setup.py
 you'll be prompted to give access from google chrome.
 If you face an issue regarding authorization then click Advanced present  at the mid left corner. 
 Then allow for access.
+
+
+# WORK IN PROGRESS 
